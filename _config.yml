@@ -1,5 +1,5 @@
 # Header
-navname: Bentham's Blog
+navname: lilitttaa's Blog
 
 # navigatior items
 nav:
@@ -12,10 +12,10 @@ nav:
 favicon: /favicon.ico
 
 # Profile
-nickname: Jeremy Bentham
+nickname: lilitttaa
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
+description: Welcome to my blog. <br>I'm a game programmer who loves to share my thoughts and experiences.
 avatar: /image/avatar.jpeg
 
 # main menu navigation
@@ -23,33 +23,33 @@ avatar: /image/avatar.jpeg
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Blog: /archives
-  # Category:
-  # Tags: 
-  # Link:
-  # Resume:
-  # Publish:
-  # Trophy:
-  # Gallery:
-  # RSS:
-  # AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
-  # LinkedIn:
-  # FaceBook:
-  # Twitter:
-  # Skype:
-  # CodeSandBox:
-  # CodePen:
-  # Sketch:
-  # Gitlab:
-  # Dribbble:
-  Instagram:
-  Reddit:
-  # YouTube:
-  # QQ:
-  # Weibo:
-  # WeChat:
-  Github: https://github.com/Siricee
+  # Blog: /archives
+  # # Category:
+  # # Tags:
+  # # Link:
+  # # Resume:
+  # # Publish:
+  # # Trophy:
+  # # Gallery:
+  # # RSS:
+  # # AliPay:
+  # ZhiHu: https://www.zhihu.com/people/sirice
+  # # LinkedIn:
+  # # FaceBook:
+  # # Twitter:
+  # # Skype:
+  # # CodeSandBox:
+  # # CodePen:
+  # # Sketch:
+  # # Gitlab:
+  # # Dribbble:
+  # Instagram:
+  # Reddit:
+  # # YouTube:
+  # # QQ:
+  # # Weibo:
+  # # WeChat:
+  # Github: https://github.com/Siricee
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
@@ -59,11 +59,11 @@ links_icon_enable: true
 ## Post_meta
 post_meta_enable: true
 
-post_author_enable: true
-post_date_enable: true
+post_author_enable: false
+post_date_enable: false
 post_category_enable: true
 ## Post copyright
-post_copyright_enable: true
+post_copyright_enable: false
 
 post_copyright_author_enable: true
 post_copyright_permalink_enable: true
@@ -94,7 +94,6 @@ scripts:
   - /js/tocbot.min.js
     # tscanlin/tocbot: Build a table of contents from headings in an HTML document.
     # https://github.com/tscanlin/tocbot
-
 
 # plugin functions
 ## Mathjax: Math Formula Support
